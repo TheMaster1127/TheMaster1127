@@ -35,6 +35,6 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
 
 <a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-stats.vercel.app/api?username=TheMaster1127&show_icons=true&hide=&count_private=true&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=1a1a1a&hide_border=true&show_icons=true" alt="TheMaster1127's GitHub stats" /></a>
 
-<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaster1127&stroke=FFA500&background=1a1a1a&ring=FFA500&fire=FFA500&currStreakNum=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500&dates=FFA500&hide_border=true" /></a>
+<a href="http://www.github.com/TheMaster1127"><img src="https://streak-stats.demolab.com/?user=TheMaster1127&theme=dark" /></a>
 
 <a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=1a1a1a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>

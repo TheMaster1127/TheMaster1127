@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheMaster1127)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheMaster1127&theme=dark)](https://git.io/streak-stats)
 
 
 <a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=FFA500&text_color=ffffff&icon_color=FFA500&bg_color=1A1B27&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>

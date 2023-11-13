@@ -30,7 +30,6 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
 <b>My GitHub Stats</b>
 

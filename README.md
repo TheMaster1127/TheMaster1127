@@ -33,9 +33,8 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-stats.vercel.app/api?username=TheMaster1127&show_icons=true&hide=&count_private=true&title_color=ebdbb2&text_color=fbf1c7&icon_color=83a598&bg_color=282828&hide_border=true&show_icons=true" alt="TheMaster1127's GitHub stats" /></a>
+<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-stats.vercel.app/api?username=TheMaster1127&show_icons=true&hide=&count_private=true&title_color=ABB2BF&text_color=ABB2BF&icon_color=5E81AC&bg_color=282C34&hide_border=true&show_icons=true" alt="TheMaster1127's GitHub stats" /></a>
 
-<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaster1127&stroke=fbf1c7&background=282828&ring=ebdbb2&fire=fabd2f&currStreakNum=fbf1c7&currStreakLabel=83a598&sideNums=fbf1c7&sideLabels=fbf1c7&dates=fbf1c7&hide_border=true" /></a>
+<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaster1127&stroke=ABB2BF&background=282C34&ring=ABB2BF&fire=E06C75&currStreakNum=ABB2BF&currStreakLabel=ABB2BF&sideNums=ABB2BF&sideLabels=ABB2BF&dates=ABB2BF&hide_border=true" /></a>
 
-<a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=ebdbb2&text_color=fbf1c7&icon_color=83a598&bg_color=282828&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=ABB2BF&text_color=ABB2BF&icon_color=5E81AC&bg_color=282C34&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>

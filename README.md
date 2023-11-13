@@ -33,8 +33,8 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-stats.vercel.app/api?username=TheMaster1127&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=8b949e&bg_color=0d1117&hide_border=true&show_icons=true" alt="TheMaster1127's GitHub stats" /></a>
+<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-stats.vercel.app/api?username=TheMaster1127&show_icons=true&hide=&count_private=true&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=1a1a1a&hide_border=true&show_icons=true" alt="TheMaster1127's GitHub stats" /></a>
 
-<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaster1127&stroke=ffffff&background=0d1117&ring=8b949e&fire=bd93f9&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaster1127&stroke=FFA500&background=1a1a1a&ring=FFA500&fire=FFA500&currStreakNum=FFA500&currStreakLabel=FFA500&sideNums=FFA500&sideLabels=FFA500&dates=FFA500&hide_border=true" /></a>
 
-<a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=8b949e&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=FFA500&text_color=FFA500&icon_color=FFA500&bg_color=1a1a1a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>

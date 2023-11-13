@@ -4,7 +4,7 @@ Software Developer
 I'm a Software Developer who can create Windows applications and automate repetitive tasks. Additionally, I can perform web scraping and web automation, all using AutoHotKey and some Python, maybe JavaScript for web automation.
 
 * 🌍  I'm based in Bulgaria
-* ✉️  You can contact me at [themastereleven1111@gmail.com](mailto:themastereleven1111@gmail.com)
+* ✉️  You can contact me at [themastereleven1111@gmail.com](mailto:themastereleven1111@gmail.com) or on Discord my username is themaster11
 
 <a href="https://www.github.com/TheMaster1127" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/@TheMaster11_" target="_blank" rel="noreferrer"><img

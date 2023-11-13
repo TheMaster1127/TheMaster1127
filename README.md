@@ -40,4 +40,4 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/TheMaster1127/LearnTimezones" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMaster1127&repo=LearnTimezones&title_color=000000&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

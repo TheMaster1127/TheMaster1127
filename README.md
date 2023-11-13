@@ -32,8 +32,10 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
+<b>My GitHub Stats</b>
+
 <a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-stats.vercel.app/api?username=TheMaster1127&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="TheMaster1127's GitHub stats" /></a>
 
 <a href="http://www.github.com/TheMaster1127"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaster1127&stroke=ffffff&background=000000&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=000000&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=000000&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>

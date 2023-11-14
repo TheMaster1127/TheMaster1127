@@ -18,7 +18,7 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
   <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/tjPOPhB.png" width="36" height="36" alt="Additional Image" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://files.wsnhapps.com/SciTE/SciTE4AutoHotkey.png" target="_blank" rel="noreferrer"><img src="https://files.wsnhapps.com/SciTE/SciTE4AutoHotkey.png" width="36" height="36" alt="SciTE for AutoHotkey" /></a>
+  <a href="https://www.autohotkey.com/scite4ahk/" target="_blank" rel="noreferrer"><img src="https://files.wsnhapps.com/SciTE/SciTE4AutoHotkey.png" width="36" height="36" alt="SciTE for AutoHotkey" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>
 

@@ -1,5 +1,3 @@
-
-
 **Software Developer**
 ------------------
 
@@ -7,8 +5,10 @@ I'm a Software Developer who can create Windows applications and automate repeti
 
 **AHK-to-js Project**
 
-
 AHK-to-js is my latest project, demonstrating my expertise as a Software Developer. It's a transpiler that converts AutoHotkey scripts into JavaScript, allowing users to run their scripts in a browser environment. This innovative solution enables AutoHotkey users to expand the reach of their scripts beyond the Windows platform, showcasing my technical skills and commitment to addressing real-world challenges in automation and scripting.
+
+Check out the project on [GitHub](https://github.com/TheMaster1127/AHK-to-js) for more details and contributions.
+
 
 
 * 🌍  I'm based in Bulgaria

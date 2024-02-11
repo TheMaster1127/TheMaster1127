@@ -1,7 +1,7 @@
-**Software Developer**
+**Self-Taught Software Developer**
 ------------------
 
-I'm a Software Developer who can create Windows applications and automate repetitive tasks. Additionally, I can perform web scraping and web automation, all using AutoHotKey and some Python, maybe JavaScript for web automation.
+I'm a Self-Taught Software Developer who can create Windows applications and automate repetitive tasks. Additionally, I can perform web scraping and web automation, all using AutoHotKey and some Python, maybe JavaScript for web automation.
 
 **AHK-to-js Project**
 

@@ -3,11 +3,17 @@
 
 I'm a Self-Taught Software Developer who can create Windows applications and automate repetitive tasks. Additionally, I can perform web scraping and web automation, all using AutoHotKey and some Python, maybe JavaScript for web automation.
 
-**AHK-to-js Project**
+**HTH: HeavenToHell Project**
 
-AHK-to-js is my latest project, demonstrating my expertise as a Software Developer. It's a transpiler that converts AutoHotkey scripts into JavaScript, allowing users to run their scripts in a browser environment. This innovative solution enables AutoHotkey users to expand the reach of their scripts beyond the Windows platform, showcasing my technical skills and commitment to addressing real-world challenges in automation and scripting.
+HTH, which stands for HeavenToHell, is a dynamically typed, transpiled high-level programming language designed for simplicity, ease of use, and versatility. Inspired by the syntax of AutoHotkey, HTH offers a user-friendly environment for beginners to learn programming and build web applications quickly and easily.
 
-Check out the AHK-to-js Project [Here](https://github.com/TheMaster1127/AHK-to-js) for more details and contributions.
+With HTH, developers can write code in a straightforward and intuitive syntax, making it accessible even to those with little to no programming experience. The language is dynamically typed, allowing for flexibility in variable declarations and reducing the need for explicit type annotations.
+
+One of the key features of HTH is its transpilation process, which converts HTH code into JavaScript and embeds it into an HTML file. This enables applications built with HTH to be run on any device with a web browser, providing portability and accessibility.
+
+HTH simplifies GUI development by eliminating the need for complex initialization, allowing developers to create user interfaces quickly and easily. Additionally, HTH streamlines backend connectivity with its built-in function for sending and retrieving data from specified endpoints.
+
+Check out the AHK-to-js Project [Here](https://github.com/TheMaster1127/HTH) for more details.
 
 
 

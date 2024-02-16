@@ -13,7 +13,7 @@ One of the key features of HTH is its transpilation process, which converts HTH 
 
 HTH simplifies GUI development by eliminating the need for complex initialization, allowing developers to create user interfaces quickly and easily. Additionally, HTH streamlines backend connectivity with its built-in function for sending and retrieving data from specified endpoints.
 
-Check out the AHK-to-js Project [Here](https://github.com/TheMaster1127/HTH) for more details.
+Check out the HTH Project [Here](https://github.com/TheMaster1127/HTH) for more details.
 
 
 

@@ -34,7 +34,7 @@ src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.autohotkey.com/scite4ahk/" target="_blank" rel="noreferrer"><img src="https://files.wsnhapps.com/SciTE/SciTE4AutoHotkey.png" width="36" height="36" alt="SciTE for AutoHotkey" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://github.com/TheMaster1127/HTH" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hWW8qr9/oie-n-Pzb0-FNCEERl.png" width="41" height="41" alt="HTH" /></a>
+  <a href="https://github.com/TheMaster1127/HTH" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hWW8qr9/oie-n-Pzb0-FNCEERl.png" width="38" height="38" alt="HTH" /></a>
 </p>
 
 

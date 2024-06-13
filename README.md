@@ -18,7 +18,7 @@ Check out the HTH Project [Here](https://github.com/TheMaster1127/HTH) for more 
 
 
 * 🌍  I'm based in Bulgaria
-* ✉️  You can contact me at [themastereleven1111@gmail.com](mailto:themastereleven1111@gmail.com) or on Discord my username is themaster11
+* ✉️  You can contact me at [themastereleven1111@gmail.com](mailto:themastereleven1111@gmail.com) or on Discord my username is themaster1127
 
 <a href="https://www.github.com/TheMaster1127" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/@TheMaster11_" target="_blank" rel="noreferrer"><img

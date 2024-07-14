@@ -1,54 +1,24 @@
 **Self-Taught Software Developer**
 ------------------
 
-I'm a 20 years old Self-Taught Software Developer who can create simple Windows applications and automate repetitive tasks. Additionally, I can perform web scraping and web automation, all using AutoHotKey and some Python, maybe JavaScript for web automation.
+I'm a 20-year-old self-taught programmer specializing in automating repetitive tasks and creating tools for people and programmers to automate repetitive tasks, maximize efficiency, and save time. I've developed my own programming languages: [HTH](https://github.com/TheMaster1127/HTH) is a high-level transpiled programming language that transpiles to JavaScript in a full HTML file. [HTpy](https://github.com/TheMaster1127/HTpy) is also a high-level transpiled language that transpiles to Python. Both languages feature the same AutoHotkey-like syntax, aimed at simplifying coding, enhancing productivity, and making programming more efficient. They are highly versatile, allowing you to combine HTH for front-end and HTpy for back-end development.
 
-**HTH: HeavenToHell Project**
+Additionally, I can handle web automation and web scraping tasks for Windows users. I can create GUI applications using AutoHotkey and automate repetitive tasks, including web automation with JavaScript for tasks on the browser.
 
-HTH, which stands for HeavenToHell, is a dynamically typed, transpiled high-level programming language designed for simplicity, ease of use, and versatility. Inspired by the syntax of AutoHotkey, HTH offers a user-friendly environment for beginners to learn programming and build web applications quickly and easily.
-
-With HTH, developers can write code in a straightforward and intuitive syntax, making it accessible even to those with little to no programming experience. The language is dynamically typed, allowing for flexibility in variable declarations and reducing the need for explicit type annotations.
-
-One of the key features of HTH is its transpilation process, which converts HTH code into JavaScript and embeds it into an HTML file. This enables applications built with HTH to be run on any device with a web browser, providing portability and accessibility.
-
-HTH simplifies GUI development by eliminating the need for complex initialization, allowing developers to create user interfaces quickly and easily. Additionally, HTH streamlines backend connectivity with its built-in function for sending and retrieving data from specified endpoints.
-
-Check out the HTH Project [Here](https://github.com/TheMaster1127/HTH) for more details.
-
-
-
-* 🌍  I'm based in Bulgaria
-* ✉️  You can contact me at [themastereleven1111@gmail.com](mailto:themastereleven1111@gmail.com) or on Discord my username is themaster1127
+* 🌍  I'm based in Bulgaria but willing to work remotely.
+* ✉️  ou can contact me via [Email](mailto:themastereleven1111@gmail.com) or on Discord where my username is themaster1127.
 
 <a href="https://www.github.com/TheMaster1127" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.x.com/@TheMaster11_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@TheMaster11_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
-/></a>
+src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
 ### Skills
 
-
 <p align="left">
   <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/tjPOPhB.png" width="36" height="36" alt="AutoHotKey" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.autohotkey.com/scite4ahk/" target="_blank" rel="noreferrer"><img src="https://files.wsnhapps.com/SciTE/SciTE4AutoHotkey.png" width="36" height="36" alt="SciTE for AutoHotkey" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://github.com/TheMaster1127/HTH" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hWW8qr9/oie-n-Pzb0-FNCEERl.png" width="38" height="38" alt="HTH" /></a>
 </p>
-
-
-
-
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/TheMaster1127" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/@TheMaster11_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
 
 <b>My GitHub Stats</b>
 

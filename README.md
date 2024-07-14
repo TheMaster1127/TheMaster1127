@@ -1,4 +1,4 @@
-**Self-Taught Software Developer**
+**Self-Taught Programmer**
 ------------------
 
 I'm a 20-year-old self-taught programmer specializing in automating repetitive tasks and creating tools for people and programmers to automate repetitive tasks, maximize efficiency, and save time. I've developed my own programming languages: [HTH](https://github.com/TheMaster1127/HTH) is a high-level transpiled programming language that transpiles to JavaScript in a full HTML file. [HTpy](https://github.com/TheMaster1127/HTpy) is also a high-level transpiled language that transpiles to Python. Both languages feature the same AutoHotkey-like syntax, aimed at simplifying coding, enhancing productivity, and making programming more efficient. They are highly versatile, allowing you to combine HTH for front-end and HTpy for back-end development.

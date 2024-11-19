@@ -6,7 +6,7 @@ I'm a 20-year-old self-taught programmer specializing in language development an
 Additionally, I can handle web automation and web scraping tasks. I can create GUI applications using AutoHotkey, make front-end page using [HTH](https://github.com/TheMaster1127/HTH) and automate repetitive tasks, including web automation with JavaScript for tasks on the browser.
 
 * 🌍  I'm based in Bulgaria but willing to work remotely.
-* ✉️  You can contact me via [Email](mailto:themastereleven1111@gmail.com) or on Discord where my username is themaster1127
+* ✉️  You can contact me on Discord where my username is themaster1127
 
 <a href="https://www.github.com/TheMaster1127" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>

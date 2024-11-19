@@ -1,9 +1,40 @@
 **Self-Taught Programmer**
 ------------------
 
-I'm a 20-year-old self-taught programmer specializing in language development and transpiler engineering, automating repetitive tasks and creating tools for people and programmers to automate repetitive tasks, maximize efficiency, and save time. I've developed my own programming languages: [HTH](https://github.com/TheMaster1127/HTH) is a high-level transpiled programming language that transpiles to JavaScript in a full HTML file. [HTpy](https://github.com/TheMaster1127/HTpy) is also a high-level transpiled language that transpiles to Python. Both languages feature the same AutoHotkey-like syntax, aimed at simplifying coding, enhancing productivity, and making programming more efficient. They are highly versatile, allowing you to combine HTH for front-end and HTpy for back-end development. [HT++](https://github.com/TheMaster1127/HT-plus-plus) is a statically-typed programming language that transpiles to C++. It features an AutoHotkey (AHK)-like syntax with static types, combining ease of use with the performance and power of C++. This allows for the development of efficient and versatile scripts that can run on any device where C++ is supported, ensuring compatibility across every platform.
+### I am a 21-year-old self-taught programmer specializing in revolutionizing programming. So far, I've been programming for approximately **two years**.
 
-Additionally, I can handle web automation and web scraping tasks. I can create GUI applications using AutoHotkey, make front-end page using [HTH](https://github.com/TheMaster1127/HTH) and automate repetitive tasks, including web automation with JavaScript for tasks on the browser.
+For most people, programming is a tool to solve problems. But for me, programming **itself** is the problem I’m solving.  
+
+#### 🌟 My Journey  
+I started programming accidentally in **AutoHotKey** for a bit over a year, not even planning to become a programmer. But AutoHotKey only works on Windows, and I felt bound by its limitations. So, I decided to create something new and I didn’t even know I was going to make a new language. I just wanted to convert AutoHotKey-like syntax to JavaScript since it was the closest and easiest syntax to convert to and accidentally created **[HTH](https://github.com/TheMaster1127/HTH)**. 
+
+
+That’s how I ended up making my own programming languages:  
+- **[HTH](https://github.com/TheMaster1127/HTH)**: Converts AutoHotKey-like syntax to JavaScript. Originally written in AutoHotKey, then rewritten in HTpy, and later also bootstrapped to work in the browser.  
+- **[HTpy](https://github.com/TheMaster1127/HTpy)**: Converts AutoHotKey-like syntax to Python. Written in HTH and later bootstrapped in itself.  
+- **[HT++](https://github.com/TheMaster1127/HT-plus-plus)**: Converts AutoHotKey-like syntax to C++ for high performance. Written in HTpy.  
+
+These languages were about bringing AutoHotKey’s ease and syntax to other environments, not focusing on the target languages themselves, but using them for their unique technologies—Python for backend development, C++ for speed, and JavaScript for the browser and user interface (GUI). You can even use **[HT Workspace](https://github.com/TheMaster1127/HT-Workspace)** to try out HTH and HTpy only directly in your browser even on mobile.  
+
+#### 🚀 HTVM: The Revolution in Programming  
+I created **[HTVM](https://github.com/TheMaster1127/HTVM)**—a programming language and engine inspired by my earlier languages but a hundred times more powerful. Built in HT++, HTVM converts code to JavaScript, Python, and C++, while introducing a groundbreaking approach to programming:  
+- **Customizable Syntax**: Define your own syntax without restrictions.  
+- **No More Libraries**: Forget importing libraries—everything is built-in for simplicity and efficiency.  
+
+HTVM solves the problems of traditional programming by making it simpler, more flexible, and revolutionary.  
+
+#### 🌐 OSP: Objectively Simplified Programming Paradigm
+Inside HTVM, I developed my own paradigm **[OSP (Objectively Simplified Programming)](https://github.com/TheMaster1127/HTVM/blob/main/DOCUMENTATION.md#osp-objectively-simplified-programming-paradigm)** because I strongly believe that OOP was a mistake. OSP eliminates the complexities of OOP while still supporting objects. It focuses on making object usage intuitive and powerful, offering a streamlined alternative to traditional paradigms.  
+
+#### 🛠️ HTVM IDE  
+To make programming with HTVM even easier, I created the **[HTVM IDE](https://github.com/TheMaster1127/HTVM/blob/main/README.md#htvm-ide)**, a powerful tool designed to enhance your development experience.  
+
+#### 🚀 My Mission  
+I’m solving problems in programming by removing unnecessary complexities and giving developers full control. With HTVM and OSP, my goal is to transform programming into a more accessible, efficient, and revolutionary process.  
+
+Feel free to explore **[HTVM](https://github.com/TheMaster1127/HTVM)** and its IDE **[HTVM IDE](https://github.com/TheMaster1127/HTVM/blob/main/README.md#htvm-ide)** also **[HTH](https://github.com/TheMaster1127/HTH)**, **[HTpy](https://github.com/TheMaster1127/HTpy)**, **[HT++](https://github.com/TheMaster1127/HT-plus-plus)**, and **[HT Workspace](https://github.com/TheMaster1127/HT-Workspace)** to see how I’m changing the programming world.  
+
+---
 
 * 🌍  I'm based in Bulgaria but willing to work remotely.
 * ✉️  You can contact me on Discord where my username is themaster1127

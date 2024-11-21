@@ -33,7 +33,7 @@ To make programming with HTVM even easier, I created the **[HTVM IDE](https://gi
 #### 🚀 My Mission  
 I’m solving problems in programming by removing unnecessary complexities and giving developers full control. With HTVM and OSP, my goal is to transform programming into a more accessible, efficient, and revolutionary process.  
 
-Feel free to explore **[HTVM](https://github.com/TheMaster1127/HTVM)** and its IDE **[HTVM IDE](https://github.com/TheMaster1127/HTVM/blob/main/README.md#htvm-ide)** also **[HTH](https://github.com/TheMaster1127/HTH)**, **[HTpy](https://github.com/TheMaster1127/HTpy)**, **[HT++](https://github.com/TheMaster1127/HT-plus-plus)**, and **[HT Workspace](https://github.com/TheMaster1127/HT-Workspace)** to see how I’m changing the programming world.  
+Feel free to explore **[HTVM](https://github.com/TheMaster1127/HTVM)** and its IDE **[HTVM IDE](https://github.com/TheMaster1127/HTVM/blob/main/README.md#%EF%B8%8F-htvm-ide)** also **[HTH](https://github.com/TheMaster1127/HTH)**, **[HTpy](https://github.com/TheMaster1127/HTpy)**, **[HT++](https://github.com/TheMaster1127/HT-plus-plus)**, and **[HT Workspace](https://github.com/TheMaster1127/HT-Workspace)** to see how I’m changing the programming world.  
 
 ---
 

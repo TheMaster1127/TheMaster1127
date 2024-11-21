@@ -19,7 +19,8 @@ These languages were about bringing AutoHotKey’s ease and syntax to other envi
 #### 🚀 HTVM: The Revolution in Programming  
 I created **[HTVM](https://github.com/TheMaster1127/HTVM)**—a programming language and engine inspired by my earlier languages but a hundred times more powerful. Built in HT++, HTVM converts code to JavaScript, Python, and C++, while introducing a groundbreaking approach to programming:  
 - **Customizable Syntax**: Define your own syntax without restrictions.  
-- **No More Libraries**: Forget importing libraries—everything is built-in for simplicity and efficiency.  
+- **No More Build-In Libraries**: Forget importing libraries—everything you need is built-in for simplicity and efficiency.  
+- **HTVM IDE**: To enhance your development experience, HTVM comes with a dedicated IDE.
 
 HTVM solves the problems of traditional programming by making it simpler, more flexible, and revolutionary.  
 

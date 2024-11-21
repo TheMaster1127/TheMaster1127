@@ -42,15 +42,6 @@ Feel free to explore **[HTVM](https://github.com/TheMaster1127/HTVM)** and its I
 <a href="https://www.github.com/TheMaster1127" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
-### Skills
-
-<p align="left">
-  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/tjPOPhB.png" width="36" height="36" alt="AutoHotKey" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.autohotkey.com/scite4ahk/" target="_blank" rel="noreferrer"><img src="https://files.wsnhapps.com/SciTE/SciTE4AutoHotkey.png" width="36" height="36" alt="SciTE for AutoHotkey" /></a>
-  <a href="https://github.com/TheMaster1127/HTH" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/hWW8qr9/oie-n-Pzb0-FNCEERl.png" width="38" height="38" alt="HTH" /></a>
-</p>
-
 <b>My GitHub Stats</b>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheMaster1127&theme=dark)](https://git.io/streak-stats)

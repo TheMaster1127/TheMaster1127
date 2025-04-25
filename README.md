@@ -1,7 +1,7 @@
 **Self-Taught Programmer**
 ------------------
 
-### I am a 21-year-old self-taught programmer specializing in revolutionizing programming. So far, I've been programming for approximately **two years**.
+### I am a 21-year-old self-taught programmer specializing in revolutionizing programming. So far, I've been programming for approximately **3 years**.
 
 For most people, programming is a tool to solve problems. But for me, programming **itself** is the problem I’m solving.  
 
@@ -23,9 +23,6 @@ I created **[HTVM](https://github.com/TheMaster1127/HTVM)**—a programming lang
 - **HTVM IDE**: To enhance your development experience, HTVM comes with a dedicated IDE.
 
 HTVM solves the problems of traditional programming by making it simpler, more flexible, and revolutionary.  
-
-#### 🌐 OSP: Objectively Simplified Programming Paradigm
-Inside HTVM, I developed my own paradigm **[OSP (Objectively Simplified Programming)](https://github.com/TheMaster1127/HTVM/blob/main/DOCUMENTATION.md#osp-objectively-simplified-programming-paradigm)** because I strongly believe that OOP was a mistake. OSP eliminates the complexities of OOP while still supporting objects. It focuses on making object usage intuitive and powerful, offering a streamlined alternative to traditional paradigms.  
 
 #### 🛠️ HTVM IDE  
 To make programming with HTVM even easier, I created the **[HTVM IDE](https://github.com/TheMaster1127/HTVM/blob/main/README.md#%EF%B8%8F-htvm-ide)**, a powerful tool designed to enhance your development experience.  

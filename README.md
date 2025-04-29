@@ -4,7 +4,7 @@
 - **Programming Language Designer** – Creator of The **HTVM** Programming Language Engine. 
 - **Programming Language Philosopher** – Advocate for simplicity, efficiency, and my least keystroke philosophy.  
 - **Revolutionist** – Transforming programming with less complexity.  
-- **Simplifier-Minimalist-Efficientist** – Optimizing programming for simplicity.  
+- **Simplifier-Minimalist** – Optimizing programming for simplicity.  
 - **Innovator** – Shaping the future of development.
 - **Problem Solver** – Tackling programming challenges with creative and effective solutions.  
 

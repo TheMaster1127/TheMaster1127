@@ -15,10 +15,11 @@ For most people, programming is a tool to solve problems. But for me, programmin
 #### 🌟 My Journey  
 I started programming accidentally in **AutoHotKey** for a bit over a year, not even planning to become a programmer. But AutoHotKey only works on Windows, and I felt bound by its limitations. So, I decided to create something new and I didn’t even know I was going to make a new language. I just wanted to convert AutoHotKey-like syntax to JavaScript since it was the closest and easiest syntax to convert to and accidentally created **[HTH](https://github.com/TheMaster1127/HTH)**.  
 
-
 - **[HTH](https://github.com/TheMaster1127/HTH)**: Converts AutoHotKey-like syntax to JavaScript. (**DEPRECATED**)
 - **[HTpy](https://github.com/TheMaster1127/HTpy)**: Converts AutoHotKey-like syntax to Python. (**DEPRECATED**)
 - **[HT++](https://github.com/TheMaster1127/HT-plus-plus)**: Converts AutoHotKey-like syntax to C++ for high performance. (**DEPRECATED**)
+
+These initial projects, while now deprecated as HTVM surpasses their capabilities, were crucial learning steps towards building a truly adaptive and multi-language system.
 
 # 🚀 HTVM: The Revolution in Programming  
 

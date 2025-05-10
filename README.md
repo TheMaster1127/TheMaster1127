@@ -1,6 +1,8 @@
 **Self-Taught Programmer**  
 ------------------  
 
+## Programming Language Design Philosopher
+
 - **Programming Language Designer** – Creator of The **HTVM** Programming Language Engine. 
 - **Programming Language Philosopher** – Advocate for simplicity, efficiency, and my least keystroke philosophy.  
 - **Revolutionist** – Transforming programming with less complexity.  
@@ -8,7 +10,7 @@
 - **Innovator** – Shaping the future of development.
 - **Problem Solver** – Tackling programming challenges with creative and effective solutions.  
 
-### I am a 21-year-old self-taught programmer specializing in programming language design. So far, I've been programming for approximately **three years**.  
+### I am a 21-year-old self-taught programmer and programming language design philosopher. So far, I've been programming for approximately **three years**.  
 
 For most people, programming is a tool to solve problems. But for me, programming **itself** is the problem I’m solving.  
 

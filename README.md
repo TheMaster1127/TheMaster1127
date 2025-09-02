@@ -91,10 +91,11 @@ While HTVM is my core focus, I am constantly building tools to solve real-world 
 *   🌍 I'm based in the mountains of **Bulgaria** and am seeking a **fully remote** role where I can apply my unique skills in systems architecture and language design to solve complex challenges.
 *   💬 The best way to reach me is on **Discord**: `themaster1127`
 
-<a href="https://www.github.com/TheMaster1127" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+<a href="https://www.github.com/TheMaster1127" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>  
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>  
 
-<a href="https://github.com/TheMaster1127" align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheMaster1127&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></a>
-<a href="https://github.com/TheMaster1127" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&theme=tokyonight&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-<a href="https://github.com/TheMaster1127" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaster1127&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheMaster1127&theme=dark)](https://git.io/streak-stats)  
+
+<a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=FFA500&text_color=ffffff&icon_color=FFA500&bg_color=1A1B27&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>  

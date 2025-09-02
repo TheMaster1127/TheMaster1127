@@ -1,4 +1,3 @@
-
 # TheMaster1127 // Mr. Compiler
 
 ## Systems Programmer | Programming Language Designer & Philosopher | Parser Engineer

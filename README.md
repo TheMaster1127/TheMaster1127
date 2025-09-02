@@ -1,10 +1,10 @@
-# TheMaster1127 // Mr. Compiler
+# TheMaster1127 aka Mr. Compiler
 
 ## Systems Programmer | Programming Language Designer & Philosopher | Parser Engineer
 
 - **Systems Programmer:** Architecting and optimizing complete software environments, from the OS level to application performance, for maximum efficiency and control.
 - **Programming Language Designer:** Architecting bespoke language systems from concept to execution.
-- **Programming Language Philosopher:** Champion of the "Least Keystroke" and developer-centric syntax philosophies.
+- **Programming Language Philosopher:** Master of the "Least Keystroke" and developer-centric syntax philosophies.
 - **Parser Inventor:** Creating novel, non-traditional parsing methodologies from first principles.
 - **Parser Designer:** Architecting the complete structure for parsing and multi-target transpilation engines.
 - **Parser Engineer:** Implementing robust, high-performance parsers for complex custom syntaxes.

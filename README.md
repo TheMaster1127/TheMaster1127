@@ -2,7 +2,6 @@
 
 ## Systems Programmer | Programming Language Designer & Philosopher | Parser Engineer
 
-- **Systems Programmer:** Architecting and optimizing complete software environments, from the OS level to application performance, for maximum efficiency and control.
 - **Programming Language Designer:** Architecting bespoke language systems from concept to execution.
 - **Programming Language Philosopher:** Master of the "Least Keystroke" and developer-centric syntax philosophies.
 - **Parser Inventor:** Creating novel, non-traditional parsing methodologies from first principles.
@@ -10,6 +9,7 @@
 - **Parser Engineer:** Implementing robust, high-performance parsers for complex custom syntaxes.
 - **Parser Philosopher:** Challenging conventional AST-based approaches to create more intuitive systems.
 - **Apocalyptic Programmer:** Building resilient, offline-first, and self-sufficient software systems.
+- **Systems Programmer:** Architecting and optimizing complete software environments, from the OS level to application performance, for maximum efficiency and control.
 - **Revolutionist & Innovator:** Transforming the future of development by challenging rigid conventions.
 - **Simplifier & Minimalist:** Engineering for simplicity by removing unnecessary complexity.
 - **Low-Level Enjoyer:** Diving into low-level systems like assembly to understand computing from the bare metal up.

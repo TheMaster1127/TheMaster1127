@@ -17,7 +17,7 @@
 
 ---
 
-I am a self-taught, systems-level programmer with three years of intensive experience, specializing in the architecture of programming languages, compilers, and development tools. My work is driven by a core philosophy: to challenge the rigid conventions of modern software development and build tools that prioritize developer freedom, efficiency, and absolute control.
+I am a 21 year old self-taught programmer with three years of intensive experience, specializing in the architecture of programming languages, compilers, and development tools. My work is driven by a core philosophy: to challenge the rigid conventions of modern software development and build tools that prioritize developer freedom, efficiency, and absolute control.
 
 For me, programming isn't just a tool to solve problems—**programming itself is the problem I am solving.**
 
@@ -99,3 +99,4 @@ src="https://img.shields.io/github/followers/TheMaster1127?logo=github&style=for
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheMaster1127&theme=dark)](https://git.io/streak-stats)  
 
 <a href="https://github.com/TheMaster1127" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaster1127&langs_count=10&title_color=FFA500&text_color=ffffff&icon_color=FFA500&bg_color=1A1B27&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>  
+

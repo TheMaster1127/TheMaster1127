@@ -1,6 +1,6 @@
 # TheMaster1127 aka Mr. Compiler
 
-## Systems Programmer | Programming Language Designer & Philosopher | Parser Engineer
+## Programming Language Designer & Philosopher | Parser Engineer | Problem Solver
 
 - **Programming Language Designer:** Architecting bespoke language systems from concept to execution.
 - **Programming Language Philosopher:** Master of the "Least Keystroke" and developer-centric syntax philosophies.

@@ -17,7 +17,7 @@
 
 ---
 
-I am a 22 year old self-taught programmer with three years of intensive experience, specializing in the architecture of programming languages, compilers, and development tools. My work is driven by a core philosophy: to challenge the rigid conventions of modern software development and build tools that prioritize developer freedom, efficiency, and absolute control.
+I am a 22 year old self-taught programmer with over three years of intensive experience, specializing in the architecture of programming languages, compilers, and development tools. My work is driven by a core philosophy: to challenge the rigid conventions of modern software development and build tools that prioritize developer freedom, efficiency, and absolute control.
 
 For me, programming isn't just a tool to solve problems—**programming itself is the problem I am solving.**
 

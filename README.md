@@ -4,15 +4,27 @@
 
 - **Programming Language Designer:** Architecting bespoke language systems from concept to execution.
 - **Programming Language Philosopher:** Master of the "Least Keystroke" and developer-centric syntax philosophies.
+
 - **Parser Inventor:** Creating novel, non-traditional parsing methodologies from first principles.
 - **Parser Designer:** Architecting the complete structure for parsing and multi-target transpilation engines.
 - **Parser Engineer:** Implementing robust, high-performance parsers for complex custom syntaxes.
 - **Parser Philosopher:** Challenging conventional AST-based approaches to create more intuitive systems.
+
+- **Syntax Inventor:** Crafting entirely new syntax systems that reflect developer-centric philosophies.
+- **Syntax Designer:** Structuring language syntax for simplicity, clarity, and minimal keystrokes.
+- **Syntax Engineer:** Implementing syntaxes that integrate seamlessly with parsers and compilers.
+- **Syntax Philosopher:** Developing syntax with principles of minimalism, intuitiveness, and efficiency.
+
+- **Compiler Inventor:** Pioneering new approaches to compilation from first principles.
+- **Compiler Designer:** Architecting compilers that translate custom syntax into x86 assembly.
+- **Compiler Engineer:** Building high-performance compilers producing efficient x86 machine code.
+- **Compiler Philosopher:** Rethinking compilation with minimalism, efficiency, and developer empowerment in mind.
+
 - **Apocalyptic Programmer:** Building resilient, offline-first, and self-sufficient software systems.
 - **Systems Programmer:** Architecting and optimizing complete software environments, from the OS level to application performance, for maximum efficiency and control.
 - **Revolutionist & Innovator:** Transforming the future of development by challenging rigid conventions.
 - **Simplifier & Minimalist:** Engineering for simplicity by removing unnecessary complexity.
-- **Low-Level Enjoyer:** Diving into low-level systems like assembly to understand computing from the bare metal up.
+- **Low-Level Enjoyer and Programmer:** Diving into low-level systems like assembly to understand computing from the bare metal up.
 - **Problem Solver:** For most, programming is a tool to solve problems. For me, programming **itself** is the problem I’m solving.
 
 ---

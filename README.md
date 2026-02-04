@@ -44,7 +44,7 @@ This philosophy is the driving force behind my magnum opus, **HTVM**.
 
 ## 🚀 HTVM: A New Paradigm for Programming
 
-**HTVM is not a language; it's a revolutionary meta-programming engine and language workbench.** It was born from a simple idea: what if the programmer, not the language, dictated the rules? HTVM empowers developers to design and build their own programming languages with fully customizable syntax, which the engine then transpiles into **15 distinct, high-performance target languages**, including C++, Python, JavaScript, Go, Lua, C#, Java, Kotlin, Ruby, Nim, AutoHotKey, Swift, Dart, TypeScript, and Groovy.
+**HTVM is not a language; it's a revolutionary meta-programming engine and language workbench.** It was born from a simple idea: what if the programmer, not the language, dictated the rules? HTVM empowers developers to design and build their own programming languages with fully customizable syntax, which the engine then transpiles into **3 distinct, high-performance target languages**, including JavaScript, Python, and C++.
 
 [![HTVM Repo](https://img.shields.io/badge/Explore-HTVM_Engine-2ea44f?style=for-the-badge&logo=github)](https://github.com/TheMaster1127/HTVM)
 [![HT-IDE Repo](https://img.shields.io/badge/Explore-HT--IDE-5865F2?style=for-the-badge&logo=electron)](https://github.com/TheMaster1127/HT-IDE)

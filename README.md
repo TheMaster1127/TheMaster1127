@@ -91,6 +91,7 @@ The HTVM ecosystem is designed for a complete workflow, including a dedicated **
 While HTVM is my core focus, I am constantly building tools to solve real-world problems and explore new domains.
 
 - **Low-Level Exploration ([HTLL](https://github.com/TheMaster1127/HTLL)):** An ambitious compiler designed to generate **x86-64 assembly and AArch64** for 64-bit Linux systems, representing my drive to understand computing from the bare metal up.
+- **Bash ([HT-Bash](https://github.com/TheMaster1127/HT-Bash)):** HT-Bash: A programming language that compiles into Bash.
 - **Game Dev & Procedural Generation ([TrackMania Map Generator](https://github.com/TheMaster1127/programmatically-making-a-trackmania-map)):** An experimental toolset to programmatically and procedurally generate playable maps for TrackMania 2020, merging my passions for coding and gaming.
 - **Web Automation & API Tooling ([HTwebChromeAutomate](https://github.com/TheMaster1127/HTwebChromeAutomate) & [Trackmania Map Analyzer](https://github.com/TheMaster1127/TrackmaniaMapInfoAnalyzer)):** Practical libraries and applications for interacting with web protocols and APIs in a powerful, automated way.
 
